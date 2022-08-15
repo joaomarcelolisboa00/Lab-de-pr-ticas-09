@@ -8,7 +8,8 @@ int main()
     printf("\n\n");
     printf("\t***CONVERTENDO EM SEGUNDOS***\n");
     printf("O horario informado coresponde a %d segundos\n", converte_segundos(h,m,s));
-
+  
+  return 0;
 }
 
 
